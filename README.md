@@ -25,7 +25,7 @@ Feel free to connect with me on:
 ### 👩🏻‍💻 Projects
 
 #### 📱 iOS Development
-- Jeera: Jelajah Ragunan 🐊 ( [Git](https://github.com/wildanbudi/Jeera) & [Video](https://youtu.be/KEUgAxmjOUg) )
+- Jeera: Jelajah Ragunan 🐊 ( [Behance](https://www.behance.net/gallery/185652045/Jeera-(Jelajah-Ragunan)), [Git](https://github.com/wildanbudi/Jeera) & [Video](https://youtu.be/KEUgAxmjOUg) )
 - SleepMuse: Sleep with Music 💤 ( [Git](https://github.com/williamchrisandy/SleepMuse) )
 - Indonesian Folk Songs Quiz 🎶 ( [Git](https://github.com/Qhansa/IndonesianFolkSongsQuiz) )
 
