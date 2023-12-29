@@ -26,7 +26,7 @@ Feel free to connect with me on:
 
 #### 📱 iOS Development
 - Jeera: Jelajah Ragunan 🐊 ( [Behance](https://www.behance.net/gallery/185652045/Jeera-(Jelajah-Ragunan)), [Git](https://github.com/wildanbudi/Jeera) & [Video](https://youtu.be/KEUgAxmjOUg) )
-- SleepMuse: Sleep with Music 💤 ( [Git](https://github.com/williamchrisandy/SleepMuse) )
+- SleepMuse: Sleep with Music 💤 ( [Behance](https://www.behance.net/gallery/187722371/SleepMuse-(Sleep-with-Music)) & [Git](https://github.com/williamchrisandy/SleepMuse) )
 - Indonesian Folk Songs Quiz 🎶 ( [Git](https://github.com/Qhansa/IndonesianFolkSongsQuiz) )
 
 #### 🎨 UX/UI
@@ -39,6 +39,15 @@ Feel free to connect with me on:
 
 #
 
+### 🎙️ Talks
+- Discover AI in Music Perspective (2019) - Miloo Data Talks Vol. 4, Miloo Project ( [News](https://kumparan.com/milo-project/data-talks-vol-4-music-ai-warp-into-product-1tCbE0FBXZz) & [Video](https://youtu.be/Z3-u9RNW5rU))
+- The Art of Time Management (2020) - Podcast, Ngemil #5, Miloo Project ( [Podcast](https://podcasters.spotify.com/pod/show/miloo-project/episodes/Ngemil-5---The-Art-of-Time-Management-egpa5v) )
+- Sulit saat kuliah tapi jadi wisudawan berprestasi? Ini rahasianya! “Struggling in college but then becoming the most outstanding student? This is the secret!” (2020) - Podcast, figuratIF Ep. 4, Talkatif, HIMA IF Telkom University ( [Video](https://youtu.be/070bMbOMAZY) )
+- Cara Bertahan Di Dunia Perkuliahan dengan Perasaan “Salah Jurusan” “How to Survive in the College World with the Feeling of Choosing the ‘Wrong Major’” (2021) - AI Sharing 1.0, Artificial Intelligence Laboratory Telkom University ( [Video](https://youtu.be/sRRnwGZi2ng) )
+- Tips & Trik Menulis Paper “Tips & Tricks on Writing a Research Paper” (2022) - AI Sharing 1.0, Artificial Intelligence Laboratory Telkom University ( [Video](https://youtu.be/ovL4gnWsIKA) )
+- Find Your Passion in Apps Development through Apple Developer Academy Program (2023) - Apple Developer Academy Info Session ( [Announcement](https://bse.telkomuniversity.ac.id/join-the-apple-developer-academy-program-info-session/) )
+
+#
 
 ### 🛠️ Languages and Tools
 
