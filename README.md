@@ -44,7 +44,7 @@ Feel free to connect with me on:
 - The Art of Time Management (2020) - Podcast, Ngemil #5, Miloo Project ( [Podcast](https://podcasters.spotify.com/pod/show/miloo-project/episodes/Ngemil-5---The-Art-of-Time-Management-egpa5v) )
 - Sulit saat kuliah tapi jadi wisudawan berprestasi? Ini rahasianya! “Struggling in college but then becoming the most outstanding student? This is the secret!” (2020) - Podcast, figuratIF Ep. 4, Talkatif, HIMA IF Telkom University ( [Video](https://youtu.be/070bMbOMAZY) )
 - Cara Bertahan Di Dunia Perkuliahan dengan Perasaan “Salah Jurusan” “How to Survive in the College World with the Feeling of Choosing the ‘Wrong Major’” (2021) - AI Sharing 1.0, Artificial Intelligence Laboratory Telkom University ( [Video](https://youtu.be/sRRnwGZi2ng) )
-- Tips & Trik Menulis Paper “Tips & Tricks on Writing a Research Paper” (2022) - AI Sharing 1.0, Artificial Intelligence Laboratory Telkom University ( [Video](https://youtu.be/ovL4gnWsIKA) )
+- Tips & Trik Menulis Paper “Tips & Tricks on Writing a Research Paper” (2022) - AI Sharing 1.0, Artificial Intelligence Laboratory Telkom University ( [Video](https://youtu.be/ovL4gnWsIKA) & [Blog](https://medium.com/point-of-you/tips-trik-menulis-paper-ai-sharing-1-0-2022-dfd972bf0d9b) )
 - Find Your Passion in Apps Development through Apple Developer Academy Program (2023) - Apple Developer Academy Info Session ( [Announcement](https://bse.telkomuniversity.ac.id/join-the-apple-developer-academy-program-info-session/) )
 
 #
