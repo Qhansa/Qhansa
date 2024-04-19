@@ -1,7 +1,7 @@
 # 👋🏼 Hello, I'm Qhansa!
 **`Apple Developer Academy Graduate`** **`iOS Development`** **`User Experience`** **`Data Enthusiast`**
 
-I got my Bachelor's Degree in Informatics Engineering at Telkom University and joined the [Artificial Intelligence Laboratory](https://ailabtelkom.github.io) for 3.5 years. Because music is one of my hobbies, I decided to work on a Music Information Retrieval (MIR) research called “[Music Emotion Classification](https://ieeexplore.ieee.org/abstract/document/9034651)” for my undergraduate thesis. Besides MIR, I'm also interested in Product Development since I enrolled in the Interaction Design elective course in the 6th semester. I learned about the importance of user research, observation, prototyping, and testing before developing a real product. So, after I graduate from college, I'm keen to explore and learn about creating the right solution for the existing problem from end-to-end by combining Research, Design, Tech, and Business knowledge at the [Apple Developer Academy Indonesia](https://developeracademy.apps.binus.ac.id). After finishing the program, I realized that I'd rather be a developer and create stuff than manage people. So, I have decided to start focusing on my **iOS Development** and **User Experience** journey. 
+I got my Bachelor's Degree in Informatics Engineering at Telkom University and joined the [Artificial Intelligence Laboratory](https://ailabtelkom.github.io) for 3.5 years. Because music is one of my hobbies, I decided to work on a Music Information Retrieval (MIR) research called “[Music Emotion Classification](https://ieeexplore.ieee.org/abstract/document/9034651)” for my undergraduate thesis. Besides MIR, I'm also interested in Product Development since I enrolled in the Interaction Design elective course in the 6th semester. I learned about the importance of user research, observation, prototyping, and testing before developing a real product. So, after I graduate from college, I'm keen to explore and learn about creating the right solution for the existing problem from end-to-end by combining Research, Design, Tech, and Business knowledge at the [Apple Developer Academy Indonesia](https://developeracademy.apps.binus.ac.id). After finishing the program, I realized that I'd rather be a developer and create stuff than manage people. So, I have decided to start focusing on my **iOS Development** and **User Experience** journey.
 
 Feel free to connect with me on:
 
@@ -29,7 +29,7 @@ Feel free to connect with me on:
 - SleepMuse: Sleep with Music 💤 ( [Behance](https://www.behance.net/gallery/187722371/SleepMuse-(Sleep-with-Music)) & [Git](https://github.com/williamchrisandy/SleepMuse) )
 - Indonesian Folk Songs Quiz 🎶 ( [Git](https://github.com/Qhansa/IndonesianFolkSongsQuiz) )
 
-#### 🎨 UX/UI
+#### 🎨 User Experience
 - Batca: Sobat Baca 📒 ( [Behance](https://www.behance.net/gallery/174618997/Batca-%28Sobat-Baca%29) )
 - ConnectyBike 🏍️ ( [Behance](https://www.behance.net/gallery/93595525/ConnectyBike-(Interaction-Design-Final-Project)) )
 
