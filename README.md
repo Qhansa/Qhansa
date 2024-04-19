@@ -17,6 +17,9 @@ Feel free to connect with me on:
 <a href="https://twitter.com/QhansaD">
 <img align="left" alt="Twitter" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a>
 
+<a href="https://instagram.com/qhansa">
+<img align="left" alt="Instagram" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"/></a>
+
 </br>
 
 #
