@@ -36,7 +36,7 @@ Feel free to connect with me on:
 - Batca: Sobat Baca 📒 ( [Behance](https://www.behance.net/gallery/174618997/Batca-%28Sobat-Baca%29) )
 - ConnectyBike 🏍️ ( [Behance](https://www.behance.net/gallery/93595525/ConnectyBike-(Interaction-Design-Final-Project)) )
 
-#### 🥼 Research Papers
+#### 🥼 Research Paper
 - Hierarchical SVM-kNN to Classify Music Emotion 🎶 ( [IEEE](https://ieeexplore.ieee.org/document/9034651) )
 - Endorsement Recommendation Using Instagram Follower Profiling 🏞 ( [IEEE](https://ieeexplore.ieee.org/document/8528724) )
 
