@@ -1,7 +1,7 @@
 # 👋🏼 Hello, I'm Qhansa!
-**`Apple Developer Academy Graduate`** **`iOS Development`**
+**`Apple Developer Academy Graduate`** **`Game Development`** **`iOS Development`**
 
-Qhansa graduated with a Bachelor's Degree in Informatics Engineering from Telkom University, joined the [Artificial Intelligence Laboratory](https://ailabtelkom.github.io) for 3.5 years, and obtained three international championships based on public speaking skills in front of many judges and participants in Sri Lanka, Taiwan, and Malaysia. She is also interested in Product Development since she enrolled in the Interaction Design elective course during the 6th semester. She learned the importance of user research, observation, prototyping, and testing before developing a real product. So, after she graduated from college, she is keen to explore and learn about creating the right solution for the existing problem from end-to-end by combining Research, Design, Tech, and Business knowledge at the [Apple Developer Academy Indonesia](https://developeracademy.apps.binus.ac.id). After finishing the program, she started focusing on her **Product Development** journey due to her passion for solving problems and building products.
+Qhansa graduated with a Bachelor's Degree in Informatics Engineering from Telkom University, joined the [Artificial Intelligence Laboratory](https://ailabtelkom.github.io) for 3.5 years, and obtained three international championships based on public speaking skills in front of many judges and participants in Sri Lanka, Taiwan, and Malaysia. She is also interested in Product Development since she enrolled in the Interaction Design elective course during the 6th semester. She learned the importance of user research, observation, prototyping, and testing before developing a real product. So, after she graduated from college, she is keen to explore and learn about creating the right solution for the existing problem from end-to-end by combining Research, Design, Tech, and Business knowledge at the [Apple Developer Academy Indonesia](https://developeracademy.apps.binus.ac.id). After finishing the program, she started focusing on her **Game Development** and **iOS Development** journey due to her passion for interactive media technology, especially in the audio/music technology field.
 
 Feel free to connect with me on:
 
@@ -54,6 +54,8 @@ Feel free to connect with me on:
 
 ### 🛠️ Languages and Tools
 
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg"/>
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
